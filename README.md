@@ -1,5 +1,3 @@
-#Instrucciones Práctica Paralela 1
-
 Implementar un merge concurrente:
 - Tenemos NPROD procesos que producen números no negativos de forma
 creciente. Cuando un proceso acaba de producir, produce un -1. 
