@@ -1,4 +1,4 @@
-Instrucciones Práctica Paralela 1
+#Instrucciones Práctica Paralela 1
 
 Implementar un merge concurrente:
 - Tenemos NPROD procesos que producen números no negativos de forma
